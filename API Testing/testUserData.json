@@ -1,0 +1,24 @@
+{
+    "patchUserId":{
+        "valid":"3681",
+        "invalid":"0000"
+    },
+    "deleteUserId":{
+        "valid":"3674",
+        "invalid":"0000"
+    },
+    "newUserDetails": {
+        "name": "Yash Khan",
+        "email": "yash@gmail.com",
+        "gender": "male",
+        "status": "active"
+    },
+    "updateUserDetail": {
+        "gender": "female",
+        "name": "Komal"
+    },
+    "deleteUserDetail": {
+        "name": "Hansa",
+        "email": "hansa@gmail.com"
+    }
+}

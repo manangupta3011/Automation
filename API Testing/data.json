@@ -1,0 +1,19 @@
+{
+    "baseURL": "https://gorest.co.in",
+    "postEndPoint": "/public/v2/users",
+    "getEndPoint": "/public/v2/users",
+    "getWrongEndPoint": "/public/v2/user",
+    "patchEndPoint": [
+        "/public/v2/users/",
+        "/public/v2/users/"
+    ],
+    "deleteEndPoint": "/public/v2/users/",
+    "contentTypeValue": "application/json",
+    "accessToken": "Bearer e06fae4eb96b18f7c8b618b35c85a58b13eed31a353f68da67f542260127d7a6",
+    "message": {
+        "deleteErrorMessage": "Resource not found",
+        "postErrorMessage": "has already been taken",
+        "patchErrorMessage": "Resource not found"
+    },
+    "postErrorField": "email"
+}
